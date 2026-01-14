@@ -1,0 +1,13 @@
+generated: 2026-01-14
+project: Intern Management System
+project_type: software
+selected_track: method
+field_type: greenfield
+workflow_path: _bmad/bmm/workflows/workflow-status/paths/method-greenfield.yaml
+workflow_status:
+  product-brief: c:/Users/Admin/Documents/intern-management-system/_bmad-output/planning-artifacts/product-brief-intern-management-system-2026-01-14.md
+  prd: c:/Users/Admin/Documents/intern-management-system/_bmad-output/planning-artifacts/prd.md
+  architecture: required
+  ux-design: recommended
+  epics-and-stories: required
+  sprint-planning: required
