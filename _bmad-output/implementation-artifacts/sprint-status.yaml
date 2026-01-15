@@ -1,0 +1,81 @@
+# generated: 2026-01-15
+# project: Intern Management System
+# project_key: IMS
+# tracking_system: file-system
+# story_location: {project-root}/_bmad-output/implementation-artifacts
+
+# STATUS DEFINITIONS:
+# ==================
+# Epic Status:
+#   - backlog: Epic not yet started
+#   - in-progress: Epic actively being worked on
+#   - done: All stories in epic completed
+#
+# Epic Status Transitions:
+#   - backlog → in-progress: Automatically when first story is created (via create-story)
+#   - in-progress → done: Manually when all stories reach 'done' status
+#
+# Story Status:
+#   - backlog: Story only exists in epic file
+#   - ready-for-dev: Story file created in stories folder
+#   - in-progress: Developer actively working on implementation
+#   - review: Ready for code review (via Dev's code-review workflow)
+#   - done: Story completed
+#
+# Retrospective Status:
+#   - optional: Can be completed but not required
+#   - done: Retrospective has been completed
+#
+# WORKFLOW NOTES:
+# ===============
+# - Epic transitions to 'in-progress' automatically when first story is created
+# - Stories can be worked in parallel if team capacity allows
+# - SM typically creates next story after previous one is 'done' to incorporate learnings
+# - Dev moves story to 'review', then runs code-review (fresh context, different LLM recommended)
+
+generated: 2026-01-15
+project: Intern Management System
+project_key: IMS
+tracking_system: file-system
+story_location: "{project-root}/_bmad-output/implementation-artifacts"
+
+development_status:
+  epic-1: in-progress
+  1-1-project-scaffolding-local-environment-setup: ready-for-dev
+  1-2-multi-tenant-schema-partner-onboarding-backend-only: ready-for-dev
+  1-3-multi-tenant-jwt-authentication-service: ready-for-dev
+  1-4-user-management-api-rbac: ready-for-dev
+  1-5-multi-tenant-user-profile-portal-frontend: ready-for-dev
+  epic-1-retrospective: optional
+
+  epic-2: in-progress
+  2-1-csv-structural-parser-multi-dialect-support: ready-for-dev
+  2-2-live-csv-data-validation-engine: ready-for-dev
+  2-3-inline-spreadsheet-error-editor: ready-for-dev
+  2-4-batch-submission-tracking-status-alerts: ready-for-dev
+  epic-2-retrospective: optional
+
+  epic-3: in-progress
+  3-1-mobile-first-student-login-invitation-retrieval: ready-for-dev
+  3-2-multi-document-secure-upload-hub: ready-for-dev
+  3-3-real-time-verification-status-tracking: ready-for-dev
+  epic-3-retrospective: optional
+
+  epic-4: in-progress
+  4-1-unified-hr-command-center-candidate-list-filters: ready-for-dev
+  4-2-high-speed-verification-split-view: ready-for-dev
+  4-3-batch-status-progression-engine: ready-for-dev
+  4-4-compliance-triage-document-rejection-logic: ready-for-dev
+  epic-4-retrospective: optional
+
+  epic-5: in-progress
+  5-1-ready-for-offer-selection-validation: ready-for-dev
+  5-2-offer-state-transition-engine-sent-accepted: ready-for-dev
+  5-3-bulk-offer-export-csv-excel: ready-for-dev
+  epic-5-retrospective: optional
+
+  epic-6: in-progress
+  6-1-immutable-system-wide-audit-logger: ready-for-dev
+  6-2-automated-email-sms-notification-relay: ready-for-dev
+  6-3-multi-account-management-security-audit: ready-for-dev
+  epic-6-retrospective: optional

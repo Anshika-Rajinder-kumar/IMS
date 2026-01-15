@@ -10,5 +10,5 @@ workflow_status:
   architecture: "c:/Users/Admin/Documents/intern-management-system/_bmad-output/planning-artifacts/architecture.md"
   ux-design: c:/Users/Admin/Documents/intern-management-system/_bmad-output/planning-artifacts/ux-design-specification.md
   wireframes: c:/Users/Admin/Documents/intern-management-system/_bmad-output/planning-artifacts/wireframes.json
-  epics-and-stories: required
+  epics-and-stories: c:/Users/Admin/Documents/intern-management-system/_bmad-output/planning-artifacts/epics.md
   sprint-planning: required
