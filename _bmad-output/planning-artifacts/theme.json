@@ -1,0 +1,12 @@
+{
+  "name": "Blueprint Style",
+  "colors": {
+    "background": "#1a237e",
+    "container": "#3949ab",
+    "border": "#7986cb",
+    "text": "#ffffff",
+    "accent": "#ffab40",
+    "success": "#00c853",
+    "error": "#ff5252"
+  }
+}

@@ -1,0 +1,469 @@
+{
+    "type": "excalidraw",
+    "version": 2,
+    "source": "https://excalidraw.com",
+    "elements": [
+        {
+            "id": "hr-frame",
+            "type": "rectangle",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 800,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "#1a237e",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "roundness": null,
+            "seed": 12345,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1673800000000,
+            "link": null,
+            "locked": false
+        },
+        {
+            "id": "hr-header",
+            "type": "rectangle",
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 60,
+            "strokeColor": "#7986cb",
+            "backgroundColor": "#3949ab",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [
+                "hr-header-group"
+            ],
+            "roundness": null,
+            "seed": 54321,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [
+                {
+                    "type": "text",
+                    "id": "hr-header-text-id"
+                }
+            ],
+            "updated": 1673800000000,
+            "link": null,
+            "locked": false
+        },
+        {
+            "id": "hr-header-text-id",
+            "type": "text",
+            "x": 20,
+            "y": 15,
+            "width": 300,
+            "height": 30,
+            "strokeColor": "#ffffff",
+            "backgroundColor": "transparent",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+                "hr-header-group"
+            ],
+            "roundness": null,
+            "seed": 11111,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1673800000000,
+            "link": null,
+            "locked": false,
+            "text": "Intern Management System | HR Command Center",
+            "fontSize": 20,
+            "fontFamily": 1,
+            "textAlign": "left",
+            "verticalAlign": "middle",
+            "containerId": "hr-header",
+            "originalText": "Intern Management System | HR Command Center"
+        },
+        {
+            "id": "hr-split-left",
+            "type": "rectangle",
+            "x": 240,
+            "y": 100,
+            "width": 500,
+            "height": 600,
+            "strokeColor": "#7986cb",
+            "backgroundColor": "#3949ab",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [
+                "hr-split-group"
+            ],
+            "roundness": {
+                "type": 3
+            },
+            "seed": 22222,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [
+                {
+                    "type": "text",
+                    "id": "hr-split-left-text"
+                }
+            ],
+            "updated": 1673800000000,
+            "link": null,
+            "locked": false
+        },
+        {
+            "id": "hr-split-left-text",
+            "type": "text",
+            "x": 260,
+            "y": 120,
+            "width": 460,
+            "height": 200,
+            "strokeColor": "#ffffff",
+            "backgroundColor": "transparent",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+                "hr-split-group"
+            ],
+            "roundness": null,
+            "seed": 33333,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1673800000000,
+            "link": null,
+            "locked": false,
+            "text": "Applicant: Siddharth V.\nCollege: IIT Bombay\nGPA: 9.2\nStatus: Pending Verification\n\n[Candidate metadata details here...]",
+            "fontSize": 16,
+            "fontFamily": 1,
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "containerId": "hr-split-left",
+            "originalText": "Applicant: Siddharth V.\nCollege: IIT Bombay\nGPA: 9.2\nStatus: Pending Verification\n\n[Candidate metadata details here...]"
+        },
+        {
+            "id": "hr-split-right",
+            "type": "rectangle",
+            "x": 760,
+            "y": 100,
+            "width": 500,
+            "height": 600,
+            "strokeColor": "#7986cb",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [
+                "hr-split-group"
+            ],
+            "roundness": {
+                "type": 3
+            },
+            "seed": 44444,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [
+                {
+                    "type": "text",
+                    "id": "hr-split-right-text"
+                }
+            ],
+            "updated": 1673800000000,
+            "link": null,
+            "locked": false
+        },
+        {
+            "id": "hr-split-right-text",
+            "type": "text",
+            "x": 780,
+            "y": 120,
+            "width": 460,
+            "height": 100,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+                "hr-split-group"
+            ],
+            "roundness": null,
+            "seed": 55555,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1673800000000,
+            "link": null,
+            "locked": false,
+            "text": "[PDF TRANSCRIPT PREVIEW]\nShowing Page 1 of 2\n[Seal Verified]",
+            "fontSize": 24,
+            "fontFamily": 1,
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "hr-split-right",
+            "originalText": "[PDF TRANSCRIPT PREVIEW]\nShowing Page 1 of 2\n[Seal Verified]"
+        },
+        {
+            "id": "hr-action-bar",
+            "type": "rectangle",
+            "x": 240,
+            "y": 720,
+            "width": 1020,
+            "height": 60,
+            "strokeColor": "#7986cb",
+            "backgroundColor": "#3949ab",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [
+                "hr-actions"
+            ],
+            "roundness": {
+                "type": 3
+            },
+            "seed": 66666,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1673800000000
+        },
+        {
+            "id": "hr-btn-reject",
+            "type": "rectangle",
+            "x": 260,
+            "y": 730,
+            "width": 100,
+            "height": 40,
+            "strokeColor": "#ffffff",
+            "backgroundColor": "#ff5252",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [
+                "hr-actions"
+            ],
+            "roundness": {
+                "type": 3
+            },
+            "seed": 77777,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [
+                {
+                    "type": "text",
+                    "id": "hr-reject-label"
+                }
+            ]
+        },
+        {
+            "id": "hr-reject-label",
+            "type": "text",
+            "x": 275,
+            "y": 740,
+            "width": 70,
+            "height": 20,
+            "text": "Reject",
+            "strokeColor": "#ffffff",
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "hr-btn-reject",
+            "groupIds": [
+                "hr-actions"
+            ]
+        },
+        {
+            "id": "hr-btn-approve",
+            "type": "rectangle",
+            "x": 380,
+            "y": 730,
+            "width": 100,
+            "height": 40,
+            "strokeColor": "#ffffff",
+            "backgroundColor": "#00c853",
+            "fillStyle": "solid",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [
+                "hr-actions"
+            ],
+            "roundness": {
+                "type": 3
+            },
+            "seed": 88888,
+            "version": 1,
+            "versionNonce": 0,
+            "isDeleted": false,
+            "boundElements": [
+                {
+                    "type": "text",
+                    "id": "hr-approve-label"
+                }
+            ]
+        },
+        {
+            "id": "hr-approve-label",
+            "type": "text",
+            "x": 390,
+            "y": 740,
+            "width": 80,
+            "height": 20,
+            "text": "Approve",
+            "strokeColor": "#ffffff",
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "hr-btn-approve",
+            "groupIds": [
+                "hr-actions"
+            ]
+        },
+        {
+            "id": "coord-frame",
+            "type": "rectangle",
+            "x": 1400,
+            "y": 0,
+            "width": 1280,
+            "height": 800,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "#1a237e",
+            "fillStyle": "solid"
+        },
+        {
+            "id": "coord-grid",
+            "type": "rectangle",
+            "x": 1440,
+            "y": 100,
+            "width": 1200,
+            "height": 600,
+            "backgroundColor": "#ffffff",
+            "strokeColor": "#7986cb"
+        },
+        {
+            "id": "coord-error-cell",
+            "type": "rectangle",
+            "x": 1640,
+            "y": 150,
+            "width": 200,
+            "height": 40,
+            "backgroundColor": "#ff5252",
+            "opacity": 30,
+            "strokeColor": "#ff5252"
+        },
+        {
+            "id": "coord-label-1",
+            "type": "text",
+            "x": 1460,
+            "y": 110,
+            "text": "Student Name",
+            "strokeColor": "#1a237e"
+        },
+        {
+            "id": "coord-label-2",
+            "type": "text",
+            "x": 1660,
+            "y": 110,
+            "text": "Email Address (Error)",
+            "strokeColor": "#ff5252"
+        },
+        {
+            "id": "student-frame",
+            "type": "rectangle",
+            "x": 2800,
+            "y": 0,
+            "width": 375,
+            "height": 812,
+            "backgroundColor": "#1a237e",
+            "strokeColor": "#1e1e1e"
+        },
+        {
+            "id": "student-header",
+            "type": "rectangle",
+            "x": 2800,
+            "y": 0,
+            "width": 375,
+            "height": 60,
+            "backgroundColor": "#3949ab",
+            "strokeColor": "#7986cb"
+        },
+        {
+            "id": "student-upload-zone",
+            "type": "rectangle",
+            "x": 2820,
+            "y": 100,
+            "width": 335,
+            "height": 200,
+            "strokeColor": "#7986cb",
+            "strokeStyle": "dashed",
+            "backgroundColor": "#3949ab"
+        },
+        {
+            "id": "student-upload-text",
+            "type": "text",
+            "x": 2840,
+            "y": 180,
+            "width": 300,
+            "text": "Tap to Upload Transcript\n(PDF/JPG)",
+            "strokeColor": "#ffffff",
+            "textAlign": "center"
+        },
+        {
+            "id": "student-btn-submit",
+            "type": "rectangle",
+            "x": 2820,
+            "y": 720,
+            "width": 335,
+            "height": 50,
+            "backgroundColor": "#ffab40",
+            "strokeColor": "#ffffff",
+            "roundness": {
+                "type": 3
+            }
+        },
+        {
+            "id": "student-submit-label",
+            "type": "text",
+            "x": 2930,
+            "y": 735,
+            "text": "Submit",
+            "strokeColor": "#ffffff"
+        }
+    ],
+    "appState": {
+        "viewBackgroundColor": "#ffffff",
+        "gridSize": 20
+    }
+}
